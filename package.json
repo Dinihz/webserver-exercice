@@ -1,0 +1,29 @@
+{
+  "name": "webserver-exercice",
+  "version": "1.0.0",
+  "description": "Este projeto é uma API simples desenvolvida com Fastify e TypeScript para criar, listar, buscar, editar e excluir usuários. O objetivo é reforçar conceitos de backend e manipulação de dados via API REST.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinihz/webserver-exercice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dinihz/webserver-exercice/issues"
+  },
+  "homepage": "https://github.com/Dinihz/webserver-exercice#readme",
+  "dependencies": {
+    "fastify": "^5.2.2",
+    "fastify-plugin": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "ts-node": "^10.9.2"
+  }
+}
