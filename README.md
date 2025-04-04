@@ -1,4 +1,4 @@
-# Fastify API - Gerenciamento de Usuários
+# Gerenciamento de Usuários
 
 Este projeto é uma API simples desenvolvida com Fastify e TypeScript para criar, listar, buscar, editar e excluir usuários. O objetivo é reforçar conceitos de backend e manipulação de dados via API REST.
 
@@ -11,8 +11,7 @@ Este projeto é uma API simples desenvolvida com Fastify e TypeScript para criar
 ## 🚀 Como Rodar o Projeto
 ### 1. Clonar o repositório
 ```bash
- git clone https://github.com/seu-usuario/fastify-api.git
- cd fastify-api
+ git clone  https://github.com/Dinihz/webserver-exercice.git
 ```
 
 ### 2. Instalar as dependências
@@ -22,7 +21,7 @@ Este projeto é uma API simples desenvolvida com Fastify e TypeScript para criar
 
 ### 3. Estrutura do projeto
 ```
-fastify-api/
+/
 │── src/
 │   ├── index.ts (arquivo principal do servidor)
 │── package.json
